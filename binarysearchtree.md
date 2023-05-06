@@ -1,4 +1,4 @@
-#BİNARY SEARCH TREE ÖDEVİ
+# BİNARY SEARCH TREE ÖDEVİ
 ***
 ```
                 7
